@@ -1,0 +1,8 @@
+{
+    "base_dir": "C:\\Users\\ user \\Desktop\\ folder \\",
+    "frame_title": "insert frame title",
+    "html_file": "insert html file dirname", 
+    "js_files": ["insert js ", " file/s dirname"],
+    "css_files": ["insert css ", " file/s dirname"],
+    "icon_file": "icon.ico"
+}
